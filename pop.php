@@ -1,3 +1,4 @@
-<?php
-echo "God only can save the world from this demonic pandemic";
-?>
+<?php 
+# Here echo command is used to print
+echo "Hello, world!"; 
+?> 
